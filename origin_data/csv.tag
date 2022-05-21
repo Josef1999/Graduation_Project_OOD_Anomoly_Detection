@@ -1,0 +1,1 @@
+timestamp,server_ip,server_port,client_ip,client_port,thread_ID,interval_sec,transfer_bits,bandwidth_bits,jitter_ms,cnt_missingdatagrams,cnt_datagrams,cnt_errorrate,cnt_outoforders
